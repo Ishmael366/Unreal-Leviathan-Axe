@@ -18,3 +18,10 @@ An Unreal Engine Blueprint mechanic for aiming, throwing, sticking an axe to a s
 - Character-hand attachment and animation setup
 
 License and permission information is retained with the project files.
+
+## Download project and build
+
+- [Unreal Engine source project](https://github.com/Ishmael366/Unreal-FPS-Game/releases/download/axe-project-recovery/OoA7KNfA80k-source-1GaATKMZ1h7oayfL7KOSRWKX92EMh6kIu.rar)
+- [Downloadable build](https://github.com/Ishmael366/Unreal-FPS-Game/releases/download/axe-project-recovery/OoA7KNfA80k-build-1BkofqbtocT5YboR9fgCHvrDBNJhJpVKJ.rar)
+
+Both archives passed integrity checks. The source contains an Unreal project and 345 asset files. The build has not been run or tested here.
